@@ -88,9 +88,13 @@ resources:
   url: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
 - authors: Mara Lampert
   name: Rescaling images and pixel (an)isotropy
+
+- authors: Jens Wendt
+  name: User friendly Image metadata annotation tool/workflow for OMERO
   tags:
-  - python
-  - napari
-  - bioimage analysis
+  - metadata
+  - bioimage
+  - OMERO
+  - forum.image.sc
   type: blog
-  url: https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/
+  url: https://forum.image.sc/t/user-friendly-image-metadata-annotation-tool-workflow-for-omero/87925
